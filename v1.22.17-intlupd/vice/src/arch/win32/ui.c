@@ -218,6 +218,7 @@ static const struct {
 
 /* ------------------------------------------------------------------------ */
 static HWND main_hwnd;
+static HWND slider_hwnd;
 
 static int emu_menu;
 
