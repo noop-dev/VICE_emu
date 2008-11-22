@@ -98,7 +98,6 @@ libarch_a_SOURCES = \
 	rs232.c \
 	rs232dev.c \
 	rs232net.c \
-	rs232win.h \
 	signals.c \
 	statusbar.c \
 	statusbar.h \
